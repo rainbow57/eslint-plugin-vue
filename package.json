@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-vue",
+  "name": "@rainbow57/eslint-plugin-vue",
   "version": "9.18.1",
-  "description": "Official ESLint plugin for Vue.js",
+  "description": "Official ESLint plugin for Vue.js & Treat .nvue, .uvue type files as vue language files, and use the same processor as .vue",
   "main": "lib/index.js",
   "scripts": {
     "new": "node tools/new-rule.js",
